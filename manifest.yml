@@ -1,0 +1,4 @@
+applications:
+- name: cloudfoundry-jenkins-demo
+  memory: 512M
+  instances: 1
