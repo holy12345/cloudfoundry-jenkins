@@ -3,3 +3,5 @@ applications:
   memory: 1G
   instances: 1
   path: target/cloudfoundry-jenkins-0.0.1-SNAPSHOT.jar
+  env:
+    WELCOME_MESSAGE: This is come from jenkins demo...
